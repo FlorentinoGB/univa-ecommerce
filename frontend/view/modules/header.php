@@ -2,32 +2,32 @@
     <div class="container">
         <div class="row">
             <!-- Social networks -->
-            <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 social">
+            <div class="col-lg-9 col-md-9 col-sm-8 col-xs-12 socialNetwork">
                 <ul>
                     <li>
                         <a href="https://facebook.com" target="_blank">
-                            <i class="fa fa-facebook"></i>
+                            <i class="fa fa-facebook facebookBlack"></i>
                         </a>
                     </li>
                     <li>
                         <a href="https://youtube.com" target="_blank">
-                            <i class="fa fa-youtube"></i>
+                            <i class="fa fa-youtube youtubeBlack"></i>
                         </a>
                     </li>
                     <li>
                         <a href="https://instagram.com" target="_blank">
-                            <i class="fa fa-instagram"></i>
+                            <i class="fa fa-instagram instagramBlack"></i>
                         </a>
                     </li>
                     <li>
                         <a href="https://twitter.com" target="_blank">
-                            <i class="fa fa-twitter"></i>
+                            <i class="fa fa-twitter twitterBlack"></i>
                         </a>
                     </li>
                 </ul>
             </div>
             <!-- Registry -->
-            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 social">
+            <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12 socialNetwork">
                 <ul>
                     <li>
                         ><a href="#signInModal" data-toggle="model">Sign in</a>
@@ -83,7 +83,7 @@
         <div class="col-xs12 backgroundColor" id="categories">
             <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
                 <h4>
-                    <a href="#" class="pixelCategories"Lorem ipsum></a>
+                    <a href="#" class="pixelCategories">Lorem ipsum</a>
                 </h4>
                 <hr>
                 <ul>
@@ -96,7 +96,7 @@
             </div>
             <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
                 <h4>
-                    <a href="#" class="pixelCategories"Lorem ipsum></a>
+                    <a href="#" class="pixelCategories">Lorem ipsum</a>
                 </h4>
                 <hr>
                 <ul>
@@ -109,7 +109,7 @@
             </div>
             <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
                 <h4>
-                    <a href="#" class="pixelCategories"Lorem ipsum></a>
+                    <a href="#" class="pixelCategories">Lorem ipsum</a>
                 </h4>
                 <hr>
                 <ul>
@@ -122,7 +122,7 @@
             </div>
             <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
                 <h4>
-                    <a href="#" class="pixelCategories"Lorem ipsum></a>
+                    <a href="#" class="pixelCategories">Lorem ipsum</a>
                 </h4>
                 <hr>
                 <ul>
