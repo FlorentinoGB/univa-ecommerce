@@ -1,33 +1,65 @@
-/* top */
-#top{
-    padding-top: 8px;
+/*top*/
+#top {
+    background-color: black;
 }
 
-#top ul li{
+#top ul {
+    padding-top: 8px;
+    display: flex;
+}
+
+#top ul a {
+    padding-top: 8px;
+    display: flex;
+    margin-left: 60px;
+}
+
+#top ul li {
     display: inline;
     line-height: 30px;
     margin: 0px 5px;
     color: white;
-}
-
-.socialNetwork ul li a i{
-    font-size: 18px;
-    margin: 0px 1px;
-}
-
-.registry ul{
     text-align: right;
-    font-size: 12px;
 }
 
-/* header */
-header #buttonCategories{
-    margin: 20px 0px;
+#top ul li a {
+    line-height: 30px;
+    margin: 5px;
+    color: white;
+    text-align: right;
 }
-head #buttonCategories p{
+
+.socialNetwork ul li a i {
+    font-size: 18px;
+    margin: 0 1px;
+    display: flex;
+}
+
+.socialNetwork ul li a {
+    font-size: 18px;
+    margin: 0 1px;
+    display: flex;
+}
+
+
+/*header*/
+header #buttonCategories {
+    border-radius: 5px;
+}
+
+header #buttonCategories p {
     line-height: 40px;
     margin-bottom: 0px;
 }
-header #buttonCategories p span{
 
+header #buttonCategories p span {
+
+}
+
+header #serach span {
+    margin-left: 10px;
+}
+
+.registry {
+    padding-top: -1%;
 }

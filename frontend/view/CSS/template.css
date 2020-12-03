@@ -18,6 +18,11 @@ a:visited, a:link, a:focus, a:hover, a:active{
     color: white;
 }
 
+header #container{
+    background: red;
+    color: white;
+}
+
 .backgroundColor, .backgroundColor a{
     background: #335c67;
     color: white;
