@@ -10,4 +10,5 @@ CREATE TABLE `univa_ecommerce`.`template` (
     `create_at` TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , 
     `update_at` TIMESTAMP on update CURRENT_TIMESTAMP NOT NULL DEFAULT CURRENT_TIMESTAMP , 
     PRIMARY KEY (`id`)
+    
     ) ENGINE = InnoDB;
